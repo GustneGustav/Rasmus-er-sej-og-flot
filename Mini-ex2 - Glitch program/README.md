@@ -4,9 +4,11 @@
 The program consists of 16 white squares rendered upon a black background. Whenever the user moves the mouse along the x-axis, each square's colour gradient is altered, and the canvas is rotated. The program has next to none practical functionality, and therefore it's mere existence is to be regarded as an error.
 This is the code that makes up the program
 ![The code i wrote](https://github.com/GustneGustav/Rasmus-er-sej-og-flot/blob/master/Mini-ex2%20-%20Glitch%20program/Pictures/Kode.PNG)
-Here we see the initial image, before it is altered by my ingenius mastery of P5
+
+This is the initial image, before it is altered by my ingenius mastery of P5
 ![The initial image](https://github.com/GustneGustav/Rasmus-er-sej-og-flot/blob/master/Mini-ex2%20-%20Glitch%20program/Pictures/before%20we%20make%20a%20mess.PNG)
-Here we see a depiction of my orderly and well-structured life
+
+Here we see how alcohol affects the human brain. PSA: Drink your school, stay in sleep, don’t do milk, and get eight hours of drugs. This is the key to succes kids
 ![After we make a mess of it](https://github.com/GustneGustav/Rasmus-er-sej-og-flot/blob/master/Mini-ex2%20-%20Glitch%20program/Pictures/After%20we%20make%20a%20mess.PNG)
 
 # The coding process
