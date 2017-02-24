@@ -1,11 +1,10 @@
-var gameover;
-function setup() {
-createCanvas(820, 600); 
-gameover=createVideo('video/gameover.webm');
-    gameover.loop();
-    gameover.hide(); 
+var video;
+function setup() { 
+  createCanvas(820, 600);
+video=createVideo('Video/gameover.webm');
+ video.loop();
+ video.hide();
 }
 function draw() {
-background(50); 
-image(gameover, 10, 10); 
+  image(video,0,0);
 }
