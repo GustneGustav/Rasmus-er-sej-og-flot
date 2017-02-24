@@ -3,7 +3,7 @@ function setup() {
 createCanvas(820, 600); 
 gameover=createVideo('video/gameover.webm');
     gameover.loop();
-    gameover.hider(); 
+    gameover.hide(); 
 }
 function draw() {
 background(50); 
