@@ -18,7 +18,8 @@ function preload() {
 function setup() {
 createCanvas(820, 600); //kanvas
 frameRate(9); //Framerate
-sound.play(); 
+forbedring.play();
+ sound.play(); 
 }
 
 function draw() {
