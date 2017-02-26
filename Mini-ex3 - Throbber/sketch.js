@@ -3,6 +3,7 @@ var img;
 var img2;
 var img3; 
 var sound;
+var forbedring; 
 var x = 12; 
 var y = 12;
 //Loader billeder
@@ -11,6 +12,7 @@ function preload() {
     img2 = loadImage('assets/putin.jpg'); 
     img3 = loadImage('assets/un.jpg');
     sound = loadSound('assets/Darude.mp3'); 
+    forbedring = loadSound('assets/forbedring.mp3'); 
 }
 
 function setup() {
