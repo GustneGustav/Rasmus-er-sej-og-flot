@@ -7,9 +7,9 @@ var x = 12;
 var y = 12;
 //Loader billeder
 function preload() {
- img = loadImage('images/trump.jpg');
-    img2 = loadImage('images/putin.jpg'); 
-    img3 = loadImage('images/un.jpg');
+ img = loadImage('assets/trump.jpg');
+    img2 = loadImage('assets/putin.jpg'); 
+    img3 = loadImage('assets/un.jpg');
     sound = loadSound('assets/Darude.mp3'); 
 }
 
