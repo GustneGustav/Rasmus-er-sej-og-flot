@@ -1,2 +1,2 @@
 # Today nothing works and i'm dying
-!(https://www.google.dk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjI55P5ra7SAhVCBiwKHWE-C7kQjRwIBw&url=http%3A%2F%2Ftechibee.com%2Fwindows-8%2Fwindows-8-hal_initialization-failed-you-pc-ran-into-a-problem-that-it-couldnt-handle-and-now-it-needs-to-restart%2F1110&bvm=bv.148073327,d.bGg&psig=AFQjCNGt0vNSm1TWr5UBskpbM6zMst-OCw&ust=1488218993120227)
+!(http://i.imgur.com/RpSqibz.png)
