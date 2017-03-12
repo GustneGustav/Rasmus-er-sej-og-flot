@@ -1,4 +1,5 @@
 #Executive order generator
+[Runme.md](https://rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/master/Mini-ex5/index.html)
 ![ExOrder1](https://raw.githubusercontent.com/GustneGustav/Rasmus-er-sej-og-flot/master/Mini-ex5/Pictures/Capture.PNG)
 ![ExOrder2](https://raw.githubusercontent.com/GustneGustav/Rasmus-er-sej-og-flot/master/Mini-ex5/Pictures/Capture2.PNG)
 #Functionality
