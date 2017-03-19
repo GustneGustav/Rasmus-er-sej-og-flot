@@ -7,9 +7,9 @@ The program unfolds over time, thereby continually generating and reiterating th
 ![Second attempt, after a minute or two](https://rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/master/mini-ex6%20-%20Generativ%20morskab/Pictures%20of%20Mini-ex6/more%20deeper.PNG)
 # Rules of the program
 The program is based upon several rules, to achieve a sense of randomized generativity and autonomity
-### Perlin noise
+#### Perlin noise
 Firstly in my sketch i made a bunch of columns and rows, that moves according to Perlin Noise, by creating vectors based on this.
-### Particles
+#### Particles
 I made another file called particle.js located in libraries, that has a ton a rules, dictating the particles' beviour.
 The particles have velocity, acceleration, maxspeed, collisions with the flowfield made by the "Perlin noise" that makes them move along the path of least resistance, collision values with the edges of the canvas etc.
 # Generative art theory
