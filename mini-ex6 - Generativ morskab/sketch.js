@@ -43,7 +43,7 @@ function draw() {
 //Assigns the value at which the flowfield moves in time
     zoff += 0.0003;
   }
-//Slams in the cool particles with it's different rules as made in particle.js
+//Slams in the cool particles with it's different rules as made in particle.js (another file i created, that is located in libraries)
     for (var i=0; i<particles.length; i++) {
       particles[i].follow(flowfield);
       particles[i].update();
