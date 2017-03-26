@@ -1,7 +1,7 @@
 # Objects and sadness
 For this mini-excersise i couldn't really get anything to work. After making the grid, p5 doesn't seem to recognize my objects properly. Even though i have 20x20 objects created through my loops, p5 only recoqnizes 20, and i still can't adress anything properly in my arrays.
 After working with all of this for a cumbersome amount of time, i have no more time for this particular project. I might revisit it later this week, but i can't finish what i started as of now. There i have a grid of sad checkboxes, who serve no purpose in life
-![i'm a failure]()
+![i'm a failure](https://cdn.rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/6e5c2d8e/Mini-ex7%20-%20Objects/tristhed.PNG)
 [Runme.pleasedont](https://cdn.rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/ec64b17c/Mini-ex7%20-%20Objects/index.html)
 # What are the advantages of using objects, and what might be the limitations
 The advantages is that you can apply all sorts of cool functions, and do it in a fairly organized and controlled manner. F.eks. i made a particle object for my last mini-excersise, and used it's physical properties to draw, as it pathed along the path of least resistance in a number of moving collumns and rows. You can apply all sorts of cool functionalities and behaviours.
