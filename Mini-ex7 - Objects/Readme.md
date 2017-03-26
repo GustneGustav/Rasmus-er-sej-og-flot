@@ -1,6 +1,6 @@
 # Objects and sadness
 For this mini-excersise i couldn't really get anything to work. After making the grid, p5 doesn't seem to recognize my objects properly. Even though i have 20x20 objects created through my loops, p5 only recoqnizes 20, and i still can't adress anything properly in my arrays.
-After working with all of this for a cumbersome amount of time, i have no more time for this particular project. I might revisit it later this week, but i can't finish what i started as of now. There i have a grid of sad checkboxes, who serve no purpose in life
+After working with all of this for a depressing amount of time, i have no more time for this particular project. I might revisit it later this week, but i can't finish what i started as of now. So here we are, left with a grid of sad checkboxes, who serve no purpose in life, just like the rest of us. Let's pretend i'm an edgy artist, and the reason i leave you with a grid of checkboxes is to manipulate your sense of anticipation and eagerness to explore in my wonderfully depressing piece of artwork, that makes you reconsider your lifechoices and purpose, after being heavily dissapointed by my own apparent failure.
 
 ![i'm a failure](https://cdn.rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/6e5c2d8e/Mini-ex7%20-%20Objects/tristhed.PNG)
 
