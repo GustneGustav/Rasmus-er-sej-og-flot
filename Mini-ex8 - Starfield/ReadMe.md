@@ -5,6 +5,8 @@
 
 This program is a "Starfield" inspired by the [coding challenge video](https://www.youtube.com/watch?v=17WoOqgXsRM) by Daniel Shiffman.
 In my code i have added a function, that makes the starfield move according to the users mouse.
+# Chart of Flows
+
 ### What is the difficulty of this week's mini exercise?
 I didn't find it particularly difficult as i could use the dear Shiffman's instructions. But the fact that it wasn't necessarily difficult didn't make it less useful. I learn a lot from following his instructions and trying to understand the steps of his guides.
 ### How may we see, organize and communicate things differently by using a flow-chart?
