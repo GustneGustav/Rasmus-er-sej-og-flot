@@ -1,6 +1,9 @@
 # Starfield
 [Starfield.RunMe.WhatAreYouWaitingFor.ThisShouldBeCalledA.SlowlyApproachWithNoIntentionOfPerformingAnyDescernibleAction.ByNow.BecauseYouLiterallyArentDoingAnything](https://cdn.rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/0a6ae2f9/Mini-ex8%20-%20Starfield/index.html)
-This program is a Starfield inspired by the [coding challenge video](https://www.youtube.com/watch?v=17WoOqgXsRM) by Daniel Shiffman.
+
+![LeFieldOfStars](https://cdn.rawgit.com/GustneGustav/Rasmus-er-sej-og-flot/943b8952/Mini-ex8%20-%20Starfield/Capture4231.PNG)
+
+This program is a "Starfield" inspired by the [coding challenge video](https://www.youtube.com/watch?v=17WoOqgXsRM) by Daniel Shiffman.
 In my code i have added a function, that makes the starfield move according to the users mouse.
 ### What is the difficulty of this week's mini exercise?
 I didn't find it particularly difficult as i could use the dear Shiffman's instructions. But the fact that it wasn't necessarily difficult didn't make it less useful. I learn a lot from following his instructions and trying to understand the steps of his guides.
