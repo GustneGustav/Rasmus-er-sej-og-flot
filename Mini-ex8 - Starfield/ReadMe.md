@@ -6,4 +6,4 @@ I didn't find it particularly difficult as i could use the dear Shiffman's instr
 ### How may we see, organize and communicate things differently by using a flow-chart?
 It definetely forces you to think a lot more about the code and how you structure it. You are forced to understand it from an independent onlooker's perspective which makes you think differently about how you organize the code in order to make it easier to comprehend. I wouldn't say you dumb the code down, but you definetely make an effort to make it easier to understand.
 # Edit: I now realize i missed the opportunity to call my work Starfield Gone Garfield, and use Garfield as the stars. I am a failure.
-![All hail](https://goo.gl/0f6CD0)
+![All hail](https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1280px-Garfield_the_Cat.svg.png)
